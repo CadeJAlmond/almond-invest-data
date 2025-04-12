@@ -1,6 +1,1 @@
-{
-  "price": [
-    200,
-    205
-  ]
-}
+{"Date": [], "Historical_Data": [[]], "Columns": ["Price"], "ColumnTypes": {"metrics": ["Price"]}, "Bands": {"10": {"mean": [], "std": []}}, "CycleSorted_Data": "{}"}
